@@ -15,7 +15,7 @@ Bienvenido(a) a mi perfil de GitHub. Soy un **Desarrollador de Software y Especi
 
 ---
 
-## 🚀 Portafolio de Proyectos Destacados
+## 🚀 Portafolio
 
 ### 📱 [Inquea](https://github.com/Cukiti/Inquea)
 **Aplicación Móvil con Integración Cloud (BaaS)**
@@ -54,5 +54,6 @@ Repositorio de documentación integral para el ciclo de vida del software.
 
 ## 📫 Contacto y Colaboración
 Siempre estoy abierto a nuevas oportunidades, proyectos interesantes y colaboraciones. ¡Siéntete libre de explorar mis repositorios!
+andersonkayle02@gmail.com
 
 ⭐️ *¡Gracias por visitar mi perfil!*

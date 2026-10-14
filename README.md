@@ -1,59 +1,70 @@
-# ¡Hola! 👋 Soy Cukiti
+<h1 align="center">Hola, soy Anderson 👋</h1>
+<p align="center"><b>Desarrollador Android y de videojuegos</b> · Kotlin · Jetpack Compose · Firebase · Godot</p>
 
-Bienvenido(a) a mi perfil de GitHub. Soy un **Desarrollador de Software y Especialista en Aplicaciones Móviles**, enfocado en la creación de soluciones eficientes, intuitivas y de alto rendimiento. Mi experiencia técnica principal abarca el ecosistema de Android nativo (Kotlin) y arquitecturas en la nube (BaaS).
+<p align="center">
+  <a href="mailto:andersonkayle02@gmail.com"><img src="https://img.shields.io/badge/Email-andersonkayle02%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/📍-República%20Dominicana-002D62?style=flat"/>
+  <img src="https://img.shields.io/badge/Abierto%20a-oportunidades-2ea44f?style=flat"/>
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas Principales
+Construyo aplicaciones móviles completas, de la interfaz al backend: apps de negocio con usuarios reales, videojuegos con multijugador online y pruebas automatizadas. Muchos de mis proyectos nacen de la cultura dominicana, como el colmado, el fiao o el dominó, y los convierto en productos digitales.
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+## 🚀 Proyectos destacados
+
+### 🛵 [Domifiao](https://github.com/Cukiti/Domifiao)
+App que conecta a los clientes con su colmado de barrio: **pedidos a domicilio, fiao (crédito) digital, fidelización y chat**, con dos experiencias (cliente y colmado) en una sola app.
+`Kotlin` `Jetpack Compose` `Hilt` `MVVM` `Firebase` `Cloud Functions` `Google Maps` `CameraX` `ML Kit`
+
+### 🁫 [Colmadón](https://github.com/Cukiti/Colmadon)
+**Dominó dominicano por parejas** en un colmado 3D con estética pixel art. Multijugador online con **servidor autoritativo**, bots con las reglas reales, salas privadas, juego cruzado PC/Android y un bot de QA que prueba el juego automáticamente.
+`Godot 4` `GDScript` `Nakama` `TypeScript` `Multijugador` `+100 pruebas`
+
+### 🧩 [Teika Fusion](https://github.com/Cukiti/Teika-Fusion)
+**Puzzle de bloques** con fusiones, mundos y compañeros. El motor del juego está desacoplado de la UI y cubierto con pruebas unitarias, con VFX propios hechos en Compose y monetización justa.
+`Kotlin` `Jetpack Compose` `Firebase` `Play Billing` `DataStore` `Tests unitarios`
+
+### 💸 [Deudom](https://github.com/Cukiti/Deudom) · ⏸️ *en pausa*
+Control de deudas, préstamos y gastos entre amigos, con **lectura de recibos por IA** y funcionamiento sin conexión.
+`Kotlin` `Compose` `Room` `Koin` `Gemini AI` `ML Kit` `WorkManager`
+
+### 📍 [Inquea](https://github.com/Cukiti/Inquea) · ⏸️ *en pausa*
+Marketplace de servicios locales: los negocios publican **reels y ofertas flash**, y los clientes reservan, pagan y conversan por chat.
+`Kotlin` `Compose` `Clean Architecture` `Hilt` `Firebase` `Media3`
+
+> ⏸️ *Los proyectos en pausa están en desarrollo y detenidos hasta nuevo aviso.*
+
+## 🛠️ Tecnologías
+
+**Móvil:**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+**Backend y nube:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 🚀 Portafolio
+**Videojuegos:**
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### 📱 [Inquea](https://github.com/Cukiti/Inquea)
-**Aplicación Móvil con Integración Cloud (BaaS)**
-Una solución móvil robusta que aprovecha datos en tiempo real y almacenamiento escalable. Desarrollada de forma nativa para garantizar el máximo rendimiento en Android.
-* **Stack Tecnológico:** Kotlin, Android SDK, Firebase (Auth, Firestore, Storage, Hosting).
-* **Características Clave:** Implementación completa de backend, reglas de seguridad personalizadas en Cloud Firestore y gestión de medios a través de Firebase Storage.
+**Arquitectura y herramientas:**
+![Hilt](https://img.shields.io/badge/Hilt%20%2F%20Koin-34A853?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### 💰 [Fintro](https://github.com/Cukiti/Fintro)
-**Calculadora Financiera Nativa**
-Aplicación especializada diseñada para simplificar y resolver cálculos fiscales complejos mediante una arquitectura moderna y una interfaz intuitiva.
-* **Stack Tecnológico:** Kotlin, Android, Gradle.
-* **Características Clave:** Desarrollo 100% nativo y lógica algorítmica enfocada en el sector financiero.
+## 💡 Cómo trabajo
 
-### 🛠️ [Aplicaciones](https://github.com/Cukiti/Aplicaciones)
-**Proyectos de Utilidad Móvil**
-Repositorio enfocado en la construcción de proyectos móviles siguiendo estándares modernos de desarrollo de software.
-* **Stack Tecnológico:** Kotlin, Android.
-* **Características Clave:** Estructura limpia y escalable que sigue las convenciones de Android, acompañada de documentación detallada.
+- **Arquitectura limpia**: MVVM o Clean Architecture con inyección de dependencias.
+- **Seguridad desde el diseño**: reglas de Firestore propias, servidores autoritativos, biometría y reCAPTCHA.
+- **Calidad verificable**: pruebas unitarias, pruebas automatizadas de juego y bots de QA.
+- **Producto completo**: diseño UI/UX, políticas de privacidad y preparación para Google Play.
 
----
+## 📫 Contacto
 
-## 📐 Diseño UI/UX y Análisis de Software
-
-### 🎨 [Transmovil Wireframes](https://github.com/Cukiti/transmovil-wireframes)
-**Prototipado y Experiencia de Usuario (UX)**
-Fase de diseño interactivo para el proyecto "Transmovil".
-* **Herramientas:** Balsamiq Mockups.
-* **Características Clave:** Enfoque "Design-First", priorizando el flujo del usuario y la estructura de la interfaz mediante la creación de wireframes interactivos y prototipos de baja fidelidad.
-
-### 📄 [Requerimientos-RF-RNF](https://github.com/Cukiti/Requerimientos-RF-RNF)
-**Ingeniería de Requisitos**
-Repositorio de documentación integral para el ciclo de vida del software.
-* **Características Clave:** Blueprint fundamental con el análisis profundo y catalogación detallada de **Requerimientos Funcionales (RF)** y **No Funcionales (RNF)**.
-
----
-
-## 📫 Contacto y Colaboración
-Siempre estoy abierto a nuevas oportunidades, proyectos interesantes y colaboraciones. ¡Siéntete libre de explorar mis repositorios!
-andersonkayle02@gmail.com
-
-⭐️ *¡Gracias por visitar mi perfil!*
+¿Tienes un proyecto o una vacante? Escríbeme a **andersonkayle02@gmail.com**.
